@@ -51,12 +51,14 @@
     <Compile Include="Data\Contexto\ModeloDDDContext.cs" />
     <Compile Include="Data\EntityConfig\ClienteConfiguration.cs" />
     <Compile Include="Data\EntityConfig\ProdutoConfiguration.cs" />
+    <Compile Include="Data\Repositories\ClienteRepository.cs" />
+    <Compile Include="Data\Repositories\ProdutoRepository.cs" />
+    <Compile Include="Data\Repositories\RepositoryBase.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="CrossCutting\" />
-    <Folder Include="Data\Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\ModeloDDD.Domain.csproj">

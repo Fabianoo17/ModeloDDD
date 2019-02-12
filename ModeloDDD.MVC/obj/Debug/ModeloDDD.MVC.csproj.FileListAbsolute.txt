@@ -24,3 +24,16 @@ c:\users\fabia\onedrive\documentos\visual studio 2013\Projects\ModeloDDD\ModeloD
 c:\users\fabia\onedrive\documentos\visual studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\obj\Debug\ModeloDDD.MVC.csprojResolveAssemblyReference.cache
 c:\users\fabia\onedrive\documentos\visual studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\obj\Debug\ModeloDDD.MVC.dll
 c:\users\fabia\onedrive\documentos\visual studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\obj\Debug\ModeloDDD.MVC.pdb
+c:\users\fabia\onedrive\documentos\visual studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\Domain.dll
+c:\users\fabia\onedrive\documentos\visual studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\Domain.pdb
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\AutoMapper.dll
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\Infrastructure.dll
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\NuGet.Frameworks.dll
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\System.ValueTuple.dll
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\EntityFramework.dll
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\Infrastructure.pdb
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\AutoMapper.pdb
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\AutoMapper.xml
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\NuGet.Frameworks.xml
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\System.ValueTuple.xml
+C:\Users\fabia\OneDrive\Documentos\Visual Studio 2013\Projects\ModeloDDD\ModeloDDD.MVC\bin\EntityFramework.xml

@@ -3,7 +3,7 @@ using Domain.Interfaces;
 
 namespace Infrastructure.Data.Repositories
 {
-    class ClienteRepository : RepositoryBase<Cliente>, IClienteRepository
+    public class ClienteRepository : RepositoryBase<Cliente>, IClienteRepository
     {
     }
 }
